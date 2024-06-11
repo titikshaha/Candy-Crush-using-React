@@ -2,6 +2,9 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+![image](https://github.com/titikshaha/Candy-Crush-using-React/assets/154905897/9652857d-5989-4454-893c-49428525c11c)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
